@@ -1,0 +1,36 @@
+/* List */
+.list-sec {
+    height: 200px;
+    background-color: darkgray;
+    font-family: system-ui;
+    font-size: 20px;
+    position: relative;
+}
+.list {
+    margin-top: 10px;
+    font-size: 20px;
+    color: crimson;
+    font-size: 20px;
+    font-weight: 800;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+  }
+  .sort-sec {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: relative;
+    top: 10px;
+  }
+  .butons {
+    padding: 10px 20px;
+    border-radius: 25px;
+    background-color: darkkhaki;
+    border: none;
+    cursor: pointer;
+  } 
+  
+  /* List */

@@ -1,0 +1,25 @@
+/* header */
+
+.content {
+    height: 150px;
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+  }
+  
+  .content1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+  
+  }
+  
+  .head {
+    text-align: center;
+    font-size: 50px;
+    font-family: system-ui;
+  }
+  
+  /* header */

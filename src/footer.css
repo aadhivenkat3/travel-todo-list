@@ -1,0 +1,14 @@
+/* footer */
+
+.footer {
+    background-color: aquamarine;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .foot {
+    font-size: 20px;
+    font-family: system-ui;
+    font-weight: 800;
+  }
